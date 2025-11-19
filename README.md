@@ -85,7 +85,7 @@ time = (0:length(ecg)-1)/Fs;
 | T_bad                   |  Bad segment  information after filtering                    |          |  
 
 ### TWA Analysis with Brainstorm
-Follow the [tuttorial](https://neuroimage.usc.edu/brainstorm/Tutorials/Epilepsy) until 'Register electrodes with MRI'
+Follow the [tutorial](https://neuroimage.usc.edu/brainstorm/Tutorials/Epilepsy) until 'Register electrodes with MRI'
 
 It is important to name ECG channels as ECG or EKG.
 
