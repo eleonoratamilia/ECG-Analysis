@@ -1,6 +1,6 @@
 # ECG-Analysis
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-blue)
-[![License](https://img.shields.io/badge/License-ODC--By%201.0-green.svg)](https://opendatacommons.org/licenses/by/1.0/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Based On](https://img.shields.io/badge/Based%20On-PhysioNet_TWA-yellow.svg)](https://physionet.org/content/twanalyser/1.0.0/)
 
 A comprehensive MATLAB pipeline for T-Wave Alternans (TWA) analysis featuring spectral and modified moving average (MMA) methods with integrated HRV analysis and Brainstorm integration.
@@ -11,7 +11,7 @@ A comprehensive MATLAB pipeline for T-Wave Alternans (TWA) analysis featuring sp
 This implementation extends the TWA Analyzer by Khaustov A.:
 - **Original**: Khaustov, A. (2008). [TWA Analyzer on PhysioNet](https://physionet.org/content/twanalyser/1.0.0/)
 - **Publication**: [DOI](https://doi.org/10.1109/CIC.2008.4749090) 
-- **License**: Open Data Commons Attribution License v1.0
+- **License**: GNU General Public License (GPL).
 - **Modifications**: Ege Bozdag & Navaneethakrishna Makaram (2025) - Code restructuring, documentation improvements, ECGdeli/HRVTool/Brainstorm integration
 
 ## ✨ Features
