@@ -86,7 +86,8 @@ time = (0:length(ecg)-1)/Fs;
 
 ### TWA Analysis with the Brainstorm Software
 It is important to name ECG channels as ECG or EKG.
- --- Drag and Drop functionality within "Brainstorm" user interface will be explained with pictures soon ----
+- Drag and Drop functionality within "Brainstorm" user interface will be explained with pictures soon
+
 Run 'Main_Brainstorm.m'
 
 
