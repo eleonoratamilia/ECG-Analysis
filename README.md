@@ -5,14 +5,18 @@
 
 A comprehensive MATLAB pipeline for T-Wave Alternans (TWA) analysis featuring spectral and modified moving average (MMA) methods with integrated HRV analysis and Brainstorm integration.
 
-## 📖 Citation & Attribution
+## Citation 
+If you use our code, or find it useful, in your research, **please cite** [Bozdag et al. (2025)](https://onlinelibrary.wiley.com/doi/10.1002/epi.70206?utm_source=researchgate.net&utm_medium=article):
 
+**Bozdag E, Makaram N, Sabino G, Bolton J, Grant EP, Rotenberg A, Tamilia E. Interictal cardiac repolarization abnormalities improve after surgical seizure resolution in pediatric drug-resistant epilepsy. Epilepsia. 2026 Mar 18. doi: 10.1002/epi.70206. PMID: 41848583.**
+
+## Attribution 
 ### Based On
 This implementation extends the TWA Analyzer by Khaustov A.:
-- **Original**: Khaustov, A. (2008). [TWA Analyzer on PhysioNet](https://physionet.org/content/twanalyser/1.0.0/)
-- **Publication**: [DOI](https://doi.org/10.1109/CIC.2008.4749090) 
-- **License**: GNU General Public License (GPL).
-- **Modifications**: Ege Bozdag & Navaneethakrishna Makaram (2025) - Code restructuring, documentation improvements, ECGdeli/HRVTool/Brainstorm integration
+- Original: Khaustov, A. (2008). [TWA Analyzer on PhysioNet](https://physionet.org/content/twanalyser/1.0.0/)
+- Publication: [DOI](https://doi.org/10.1109/CIC.2008.4749090) 
+- License: GNU General Public License (GPL).
+- Modifications: Ege Bozdag & Navaneethakrishna Makaram (2025) - Code restructuring, documentation improvements, ECGdeli/HRVTool/Brainstorm integration
 
 ## ✨ Features
 
