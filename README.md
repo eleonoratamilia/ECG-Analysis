@@ -84,14 +84,10 @@ time = (0:length(ecg)-1)/Fs;
 | T_MMA                   |  MMA TWA amplitude as coded by Khaustov et al.               | μV       |
 | T_bad                   |  Bad segment  information after filtering                    |          |  
 
-### TWA Analysis with Brainstorm
-Follow the [tutorial](https://neuroimage.usc.edu/brainstorm/Tutorials/Epilepsy) until 'Register electrodes with MRI'
-
+### TWA Analysis with the Brainstorm Software
 It is important to name ECG channels as ECG or EKG.
-
- --- Drag and Drop will be explained with pictures in the future based on license files----
- 
-Run Main_Brainstorm
+ --- Drag and Drop functionality within "Brainstorm" user interface will be explained with pictures soon ----
+Run 'Main_Brainstorm.m'
 
 
 ### Important Information
