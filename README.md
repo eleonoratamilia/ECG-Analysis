@@ -103,4 +103,4 @@ TWARes.res(intv).VAlt(lead) = abs(mean(df)); %ma; [Source](https://physionet.org
 
 To Have similar definition with the literature, please change *TWAMMA_calculator* in helper functions line 134 to 
 
-TWARes.res(intv).VAlt(lead) = ma;
+TWARes.res(intv).VAlt(lead) = maxAlt;
